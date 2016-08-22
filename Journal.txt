@@ -1,2 +1,2 @@
 Hello world!
-Today's lesson was about Version Control System and basic commands......
+Today's lesson was about Version Control System and basic commands of GIT.
