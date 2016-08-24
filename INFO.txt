@@ -1,1 +1,0 @@
-I have used the programming languages Java and C++. I created the game tetris using the language C++. It includes an abstract class of a tetrimino and 7 subclasses of different tetriminoes.
