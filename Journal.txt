@@ -3,3 +3,5 @@ Hello world!
 Today's lesson was about Version Control System and basic commands of GIT.
 
 Today we learned about databeses and its problems. We created our own pokemon centers and used a random generator to create random orders and recorded them on a spreadsheet.
+
+Today we learned more about databases. We learned about key attributes and how to use them to create smaller independent tables such as pokemons, trainers, and centers.
