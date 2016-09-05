@@ -7,3 +7,5 @@ Today we learned about databeses and its problems. We created our own pokemon ce
 Today we learned more about databases. We learned about key attributes and how to use them to create smaller independent tables such as pokemons, trainers, and centers.
 
 Today we learned about Entity sets and ER Diagrams. We learned to use different symbols to represent entities, attributes, and relations in a diagram.
+
+Today we learned more about entity-relationship models. We learned about relationship roles, subclasses, and weak entity sets.
