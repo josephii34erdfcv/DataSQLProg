@@ -11,3 +11,5 @@ Today we learned about Entity sets and ER Diagrams. We learned to use different 
 Today we learned more about entity-relationship models. We learned about relationship roles, subclasses, and weak entity sets.
 
 Today we applied what we learned about ER models on more complex examples. We created ER diagrams for leagues, teams, players, positions, captains, fans, persons, matches, scores, stadiums.. etc.
+
+Today we took a test about ER diagrams. There were three questions and it was difficult.
