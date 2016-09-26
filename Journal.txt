@@ -15,3 +15,5 @@ Today we applied what we learned about ER models on more complex examples. We cr
 Today we took a test about ER diagrams. There were three questions and it was difficult.
 
 Today we designed another ER diagram. I worked with Clement as a group to create a presentation on the ER diagram. We also listened to other students' presentations and critiqued their diagrams.
+
+Today we entered the second phase of the course. We learned to convert ER diagrams, a higher level of representation, to Relational Models, a lower level of representation.
