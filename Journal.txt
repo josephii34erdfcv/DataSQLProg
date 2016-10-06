@@ -17,3 +17,5 @@ Today we took a test about ER diagrams. There were three questions and it was di
 Today we designed another ER diagram. I worked with Clement as a group to create a presentation on the ER diagram. We also listened to other students' presentations and critiqued their diagrams.
 
 Today we entered the second phase of the course. We learned to convert ER diagrams, a higher level of representation, to Relational Models, a lower level of representation.
+
+Today we learned about normals forms. There was normal form one, two, and three. We tried to come up with our own normal form three, and we critiqued each others' relational models.
