@@ -19,3 +19,5 @@ Today we designed another ER diagram. I worked with Clement as a group to create
 Today we entered the second phase of the course. We learned to convert ER diagrams, a higher level of representation, to Relational Models, a lower level of representation.
 
 Today we learned about normals forms. There was normal form one, two, and three. We tried to come up with our own normal form three, and we critiqued each others' relational models.
+
+Today we tried to find errors in other databases. Then we used real-life data to make a relationship model. We first made ER models by writing on paper. Then we typed the relational models and put them on google slides.
