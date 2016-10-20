@@ -23,3 +23,5 @@ Today we learned about normals forms. There was normal form one, two, and three.
 Today we tried to find errors in other databases. Then we used real-life data to make a relationship model. We first made ER models by writing on paper. Then we typed the relational models and put them on google slides.
 
 Today we learned about the importance of denormalization. Normalization focuses of reducing redundancy, while denormalization may sometimes increase performance. Then we presented our relation schemas.
+
+Today we attempted to explain to an 8-year old what BCNF is. Then we signed up in Kaggle to have access to real life database.
