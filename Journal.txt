@@ -27,3 +27,5 @@ Today we learned about the importance of denormalization. Normalization focuses 
 Today we attempted to explain to an 8-year old what BCNF is. Then we signed up in Kaggle to have access to real life database.
 
 Today we have time to work on our real life databases. I was working on Burritos in California. I had a little nap.
+
+Today we are again given time to work on our databases. I am finished with first, second, and third normalizations. All I need is explain. We will be learning SQL next class!
