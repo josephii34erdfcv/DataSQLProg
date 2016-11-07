@@ -29,3 +29,5 @@ Today we attempted to explain to an 8-year old what BCNF is. Then we signed up i
 Today we have time to work on our real life databases. I was working on Burritos in California. I had a little nap.
 
 Today we are again given time to work on our databases. I am finished with first, second, and third normalizations. All I need is explain. We will be learning SQL next class!
+
+Today we use MySQL to create databases. Then, we studied different commands of SQL like Create Table and Insert Into. Finally, we created a time magazine table.
