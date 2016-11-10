@@ -31,3 +31,5 @@ Today we have time to work on our real life databases. I was working on Burritos
 Today we are again given time to work on our databases. I am finished with first, second, and third normalizations. All I need is explain. We will be learning SQL next class!
 
 Today we use MySQL to create databases. Then, we studied different commands of SQL like Create Table and Insert Into. Finally, we created a time magazine table.
+
+Today we learned more about SQL language. We learned the commands create, show, describe, drop, and comment. We used these commands to create an sql_class schema as well as a movieDatabase schema and multiple files and multiple tables like movie and actor.
