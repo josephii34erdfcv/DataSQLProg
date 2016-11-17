@@ -33,3 +33,5 @@ Today we are again given time to work on our databases. I am finished with first
 Today we use MySQL to create databases. Then, we studied different commands of SQL like Create Table and Insert Into. Finally, we created a time magazine table.
 
 Today we learned more about SQL language. We learned the commands create, show, describe, drop, and comment. We used these commands to create an sql_class schema as well as a movieDatabase schema and multiple files and multiple tables like movie and actor.
+
+Today I learned to upload a file into this file. It is named music.sql. We also learned new commands like select, from, where, like, and, or, limit, desc, %_, and others.
