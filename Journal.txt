@@ -35,3 +35,5 @@ Today we use MySQL to create databases. Then, we studied different commands of S
 Today we learned more about SQL language. We learned the commands create, show, describe, drop, and comment. We used these commands to create an sql_class schema as well as a movieDatabase schema and multiple files and multiple tables like movie and actor.
 
 Today I learned to upload a file into this file. It is named music.sql. We also learned new commands like select, from, where, like, and, or, limit, desc, %_, and others.
+
+Today we learned about the commands inner join, update, set, using, delete, sum(), and max(). It seems like there are many many SQL commands out there.
