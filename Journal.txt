@@ -37,3 +37,5 @@ Today we learned more about SQL language. We learned the commands create, show, 
 Today I learned to upload a file into this file. It is named music.sql. We also learned new commands like select, from, where, like, and, or, limit, desc, %_, and others.
 
 Today we learned about the commands inner join, update, set, using, delete, sum(), and max(). It seems like there are many many SQL commands out there.
+
+Today we learned about two new commands, alias and group by, and we reviewed the other numerous commands. We had exercizes where we imitate tables of queries from the powerpoint.

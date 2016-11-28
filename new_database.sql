@@ -8,7 +8,7 @@ describe salaries;
 describe titles;
 
 -- 1)
-select count(*) from employees;
+select count(distinct first_name, last_name, birth_date) from employees;
 -- 2)
 select title, count(emp_no) from titles group by title;
 -- 3)
@@ -48,3 +48,9 @@ where dept_no like 'd007' group by gender;
 -- 14)
 select max(length(first_name) + length(last_name)) from employees;
 select * from employees where length(first_name) + length(last_name) = 29;
+
+select first_name, count(*)from employees group by first_name
+order by count(*) desc;
+
+select dept_name, count(*) from dept_emp inner join departments
+  using (dept_no) group by dept_no;
