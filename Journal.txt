@@ -39,3 +39,5 @@ Today I learned to upload a file into this file. It is named music.sql. We also 
 Today we learned about the commands inner join, update, set, using, delete, sum(), and max(). It seems like there are many many SQL commands out there.
 
 Today we learned about two new commands, alias and group by, and we reviewed the other numerous commands. We had exercizes where we imitate tables of queries from the powerpoint.
+
+Today we continued the exercise on investigation employees. We learned two more commands: union and left join. Both were slightly difficult concepts.
