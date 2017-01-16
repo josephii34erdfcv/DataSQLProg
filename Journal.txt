@@ -43,3 +43,16 @@ Today we learned about two new commands, alias and group by, and we reviewed the
 Today we continued the exercise on investigation employees. We learned two more commands: union and left join. Both were slightly difficult concepts.
 
 Today we had a lot of fun doing the round of queries. I found many queries and also gave one query.
+
+Today is the last class for Database Modeling course. In this course, I learned about what a database is, how important it is to the current society, and, most importantly,
+how to design a database. To briefly summarize what I learned, a database is a list of numbers, words, or any form of information organized into categories and listed in tables.
+The information is usually organized by packages where each package has it own type, (seat, table) and a list of information related to that type, (price, weight). The package,
+interestingly, can be compared to objects in the real world, and the purpose of the database is to create a table where a list of objects of the same type can be recorded. Throughout the
+course, I began to learn how relevant this concept of "database" is to my own life. Powerschool, Google, and many other apps rely on similar systems. Database modeling will become very
+useful if I decide to become a database designer in the future. Even if I don't, most companies will need database to function, and I can definitely utilize my knowledge from this course to
+help ensure that the databases around me are well-designed. Or, I may better understand how to query, or retrieve or change, information. This I discovered is a relatively important part
+of database design, as a useful database will be constantly updated. The language SQL is especially important in facilitating queries. The next half of our Database course is mainly about
+the different key terms of SQL, including show, use, describe, select, from, where, using, inner join, group by, union... These terms allow me to more easily find the information that I am
+look for in a database, and further look for any unique characteristics in the information of the database. It also allows me to insert, update, and delete list of items, and, very important,
+SQL is the most direct method through which we create a database, although the complexity of the database requires us to first plan out our design through the entity relatiionship model and
+relational schema.
